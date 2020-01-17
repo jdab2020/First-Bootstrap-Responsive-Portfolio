@@ -4,12 +4,6 @@ main {
     padding: 20px;
 }
 
-.block {
-    padding: 10px;
-    margin-bottom: 20px;
-    align-content: center;
-}
-
 #idx-img {
     margin: 28px 10px 10px 10px;
     float: left;
